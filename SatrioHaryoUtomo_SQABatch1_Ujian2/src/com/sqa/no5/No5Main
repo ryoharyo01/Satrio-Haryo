@@ -1,0 +1,14 @@
+a. Suatu method wajib mengembalikan nilai (return value) ke pemanggilnya.
+ = Pernyataan Salah, karena ada method yang tidak bisa mengembalikan nilai 
+
+b. Suatu method wajib meminta parameter dari pemanggilnya. 
+= Pernyataan Salah, Karena suatu method tidak diwajibkan meminta parameter 
+
+c. Suatu method wajib memiliki parameter dan return value dengan tipe data yang sama
+= Pernyataan Benar, Karena bisa error saat kompilasi jika tipe datanya berbeda
+
+d. Suatu method dapat memiliki lebih dari satu parameter
+= Pernyataan Benar, Karena suatu bisa memiliki lebih dari satu paramater dalam satu method
+
+e. Suatu method dapat memiliki lebih dari satu return value
+= Pernyataan Salah, Karena method hanya memiliki satu return value
